@@ -1,4 +1,6 @@
 # IPTriageTool
+Note: I have made this redundant with:  https://github.com/jkerai1/VirusTotal-IP-powershell a much more powerful tool.
+
 A tool to quickly triage multiple IPs using VirusTotal,AlienVault OTX and WhoIs
  
  
